@@ -148,13 +148,14 @@ ul li, ol li {
 }
 
 .btn-danger:hover {
-  background-color: #f55262;
-  border-color: #f55262;
+  background-color: #24292f;
+  border-color: #24292f;
   box-shadow: 0 6px 22px rgba(0, 0, 0, 0.1);
   transition: all .2s ease-in-out;
   -moz-transition: all .2s ease-in-out;
   -webkit-transition: all .2s ease-in-out;
 }
+
 
 .btn-border {
   color: #fff;
@@ -289,7 +290,7 @@ a.back-to-top:hover, a.back-to-top:focus {
 }
 
 #about .img-thumb img {
-  border: 8px solid #fff;
+  border-radius:50%;
   box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.2);
 }
 
@@ -318,6 +319,7 @@ a.back-to-top:hover, a.back-to-top:focus {
   width: 120px;
   display: inline-block;
   margin-bottom: 5px;
+  
 }
 
 .about-profile .pro-title:after {
@@ -332,51 +334,6 @@ a.back-to-top:hover, a.back-to-top:focus {
   position: absolute;
   right: 45px;
   bottom: 10px;
-}
-
-.counter-section {
-  background: url(../img/background/bg-1.jpg);
-  overflow: hidden;
-  position: relative;
-}
-
-.counter-section:before {
-  content: '';
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  width: 100%;
-  height: 100%;
-  background: rgba(0, 0, 0, 0.5);
-}
-
-.counter-section .counter {
-  padding: 30px 0;
-}
-
-.counter-section .counter .icon {
-  margin-bottom: 30px;
-}
-
-.counter-section .counter .icon i {
-  font-size: 48px;
-  color: #00b4d9;
-}
-
-.counter-section .counter p {
-  font-size: 18px;
-  text-transform: uppercase;
-  color: #fff;
-  font-weight: 400;
-  letter-spacing: 1px;
-  margin: 30px 0;
-}
-
-.counter-section .counter .counterUp {
-  color: #fff;
-  font-size: 42px;
-  margin-top: 15px;
-  font-weight: 700;
 }
 
 /* Resume */
@@ -692,7 +649,7 @@ a.back-to-top:hover, a.back-to-top:focus {
     display: block;
   }
   .slicknav_nav .active a {
-    background: #E91E63;
+    background: #00b4d9;
     color: #fff;
   }
   .slicknav_nav a:hover,
@@ -1038,7 +995,7 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
 }
 
 .list-unstyled li {
-  color: #d9534f;
+  color: #00b4d9;
 }
 
 #conatiner-map {
