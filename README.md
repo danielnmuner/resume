@@ -46,6 +46,16 @@ Integración de PHP con HTML - Platzi: Enviar y recibir peticiones HTTP con PHP,
 
 ## Experiencia Profesional
 
+Universidad Agraria de Colombia
+
+Podómetro como ayuda tecnológica para la detección de celo en vacas lecheras
+
+Tesis de Grado Meritoria
+
+Realizar el registro y almacenamiento de la información recolectada por los sensores utilizados en el podómetro.
+
+Construir un algoritmo que procese los datos obtenidos y pueda diferenciar los tipos de posiciones en que se encuentra la vaca, además debe entregar las alertas correspondientes para actividades locomotoras inhabituales.
+
 **Gerdau Diaco**
 
 Automatización
@@ -140,6 +150,16 @@ PHP & HTML Integration - Platzi: Send and receive HTTP requests with PHP, knowle
 
 
 ## Professional Experience
+
+Agrarian University of Colombia
+
+Pedometer as a technological aid for heat detection in dairy cows
+
+Meritorious Degree Thesis
+
+Record and store the information collected by the sensors used in the pedometer.
+
+Build an algorithm that processes the data obtained and can differentiate the types of positions in which the cow is. Added to it must deliver the corresponding alerts for unusual locomotor activities.
 
 Gerdau Diaco
 
