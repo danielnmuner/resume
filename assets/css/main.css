@@ -1171,7 +1171,7 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
     -o-transform: scale(1.2);
     transform: scale(1.2); }
   .single-blog:hover .blog-content {
-    background-color: #754ef9; }
+    background-color: #00b4d9; }
     .single-blog:hover .blog-content .blog-title a {
       color: #fff; }
     .single-blog:hover .blog-content span {
